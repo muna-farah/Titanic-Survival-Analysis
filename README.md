@@ -4,7 +4,7 @@ This project explores the Titanic dataset to understand patterns in passenger su
 
 ## Contents
 - **Exploratory Data Analysis (EDA)**: Analysis of survival rates by gender, class, age, and family size.  
-- **Visualizations**: Charts and graphs to illustrate key insights.  
+- **Visualizations**: Graphs to illustrate key insights.  
 - **Predictive Model**: Logistic Regression model to predict survival.
 
 ## Files
